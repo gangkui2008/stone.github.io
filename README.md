@@ -27,9 +27,9 @@
 
 # 工作经历
 
-## IBM CSL Shanghai (2012年4月 ~ 至今)
+## IBM CSL Shanghai (2012年4月 ~ 2020.7)
 
-### Cloud-Native Storage Development (2019年10月 ~ 至今)
+### Cloud-Native Storage Development (2019年10月 ~ 2020.7)
 Cloud-Native Storage是一款运行在Kubernetes/Openshift上的云原生的智能存储产品,在此项目中,我主要负责其部署自动化的设计与开发(使用Operator Patterns), CSI(Container Storage Interface)的设计与实现,分布式日志的收集/管理和相关工具的设计与开发,RAS(Reliability, Availability, Serviceability)功能的设计与开发等.
 - 相关技术: Docker/Kubernetes/Go/Shell/C/EFK/Prometheus/Grafana/Jenkins
 
