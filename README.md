@@ -54,14 +54,14 @@ Kubesphere 可以对接任何符合 Kubernetes 标准的存储，用户可在 Ku
 
 ## **IBM CSL Shanghai** (2012年4月 ~ 2020年7月)
 
-### **Cloud-Native Storage Development** (2019年10月 ~ 2020年7月)
+### **Cloud-Native Storage Development** (2019年7月 ~ 2020年7月)
 Cloud-Native Storage 是一款运行在 Kubernetes/Openshift 上的云原生的智能存储系统，它为云上的企业应用提供自动化的存储支持和持久的数据保护。
 
 在此项目中，我主要负责其自动化部署与卸载，CSI(Container Storage Interface)，分布式日志的收集与管理，RAS (Reliability， Availability， Serviceability)，web 前后端的设计与开发等。
 
 - 相关技术: Docker/Kubernetes/Go/gRPC/Shell/C/EFK/Prometheus/Grafana/Jenkins/GPFS/Ceph
 
-### **DS8K SANLight Development** (2017年11月 ~ 2019年7月)
+### **DS8K SANLight Development** (2017年10月 ~ 2019年7月)
 DS8K SANLight 是一款为企业客户打造的用于监控与管理 DS8K ( IBM 的一款高端存储产品)集群的分布式管理系统，客户可在 web 页面一站式地管理其所有的 DS8K 。
 
 在此项目中，我主要负责其整体架构设计，web前后端多个核心功能模块的设计与开发，容器化，自动化构建和部署等。目前该产品已在多个企业客户中中部署和使用。
