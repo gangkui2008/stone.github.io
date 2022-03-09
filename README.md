@@ -15,17 +15,26 @@
 # 技能清单
 - 精通 Go/Java web 开发，熟悉主流的开发框架和分布式、微服务、多线程、缓存、消息等机制
 - 熟悉容器技术和多种云原生技术，熟悉 Kubernetes 集群的存储、网络、DevOps、服务治理、日志、监控、告警、审计、应用管理、安全、多集群等多种技术和开发模式
-- 熟悉 Kubesphere、Rancher、OpenShift、灵雀云 ACP 等多种 Kubernetes 平台的使用和区别
 - 熟悉主流的关系型和非关系型数据库技术
 - 熟悉 Linux 系统机制，熟悉 TCP/IP、HTTP 协议以及网络编程
 - 熟悉多种存储技术，包括块存储、文件存储、对象存储、KV存储、分布式存储等多种产品和技术
 - 具备良好的编码习惯，熟悉多种数据结构和算法
 - 具备丰富的团队管理和项目管理经验
-- 责任感和自驱力强，对技术有持续的热情，密切关注技术前沿动态、
+- 责任感和自驱力强，对技术有持续的热情，密切关注技术前沿动态
 
 # 工作经历
 ## **北京青云科技股份有限公司武汉分公司** （2020年9月 ～ 至今）
-### **Kubesphere Storage Development** (2020年9月 ～ 至今)
+
+### **Kubesphere Cloud Backup and DR SaaS Development** (2021年3月 ～ 至今)
+[Kubesphere Cloud](https://kubesphere.cloud/) 是依托于 Kubesphere 构建的云原生应用服务平台，提供容器云、容器一体机、容器虚拟化平台、容器备份容灾 SaaS 等多种解决方案和服务。
+
+[Kubesphere Cloud 容器备份容灾 SaaS 服务](https://kubesphere.cloud/console/restore/) 是国内首个企业级 Kubernetes 云原生备份容灾 SaaS 服务，只需登录 KubeSphere Cloud 管理控制台，即可对集群的核心容器应用进行备份恢复、容灾保护。
+
+在此项目中，我负责其容器备份容灾 SaaS 服务的整体架构设计，项目管理，核心后端代码开发等工作。
+
+- 相关技术：Kubernetes/Go/Restful/UpperDB/SQL/Velero/Restic/Backup/Restore/DR/Redis/MinIO
+
+### **Kubesphere Development** (2020年9月 ～ 至今)
 [KubeSphere](https://kubesphere.io) 愿景是打造一个以 Kubernetes 为内核的 云原生分布式操作系统，它的架构可以非常方便地使第三方应用与云原生生态组件进行即插即用（plug-and-play）的集成，支持云原生应用在多云与多集群的统一分发和运维管理。 KubeSphere 也是一个多租户容器平台，提供全栈的 IT 自动化运维的能力，简化企业的 DevOps 工作流。KubeSphere 提供了运维友好的向导式操作界面，帮助企业快速构建一个强大和功能丰富的容器云平台。
 
 Kubesphere 可以对接任何符合 Kubernetes 标准的存储，用户可在 Kubesphere web console 一站式管理集群中的存储类型、存储卷、存储卷声明、快照、快照类型、存储系统能力等配置。
@@ -42,15 +51,6 @@ Kubesphere 可以对接任何符合 Kubernetes 标准的存储，用户可在 Ku
 我负责以上 CSI Driver 的开发和设计等工作。
 
 - 相关技术：Docker/Kubernetes/Go/Client-go/CSI/NeonSAN/IaaS
-
-### **Kubesphere Cloud Backup and DR SaaS Development** (2021年3月 ～ 至今)
-[Kubesphere Cloud](https://kubesphere.cloud/) 是依托于 Kubesphere 构建的云原生应用服务平台，提供容器云、容器一体机、容器虚拟化平台、容器备份容灾 SaaS 等多种解决方案和服务。
-
-[Kubesphere Cloud 容器备份容灾 SaaS 服务](https://kubesphere.cloud/console/restore/) 是国内首个企业级 Kubernetes 云原生备份容灾 SaaS 服务，只需登录 KubeSphere Cloud 管理控制台，即可对集群的核心容器应用进行备份恢复、容灾保护。
-
-在此项目中，我负责其容器备份容灾 SaaS 服务的整体架构设计，项目管理，核心后端代码开发等工作。
-
-- 相关技术：Kubernetes/Go/Restful/UpperDB/SQL/Velero/Restic/Backup/Restore/DR/Redis/MinIO
 
 ## **IBM CSL Shanghai** (2012年4月 ~ 2020年7月)
 
